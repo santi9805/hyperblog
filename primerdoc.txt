@@ -1,0 +1,1 @@
+Este es el primer documento para el curso de git
